@@ -1,11 +1,12 @@
+from pathlib import Path
+
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-from pathlib import Path
 
 st.set_page_config(page_title="SDG4 Inequity Map", layout="wide")
 
-DATA = Path("data/interim/inequity_index.parquet")
+DATA = Path("data/public/inequity_index.parquet")
 if not DATA.exists():
     st.error("inequity_index.parquet not found. Run pipelines/build_index.py first.")
     st.stop()
@@ -20,15 +21,15 @@ default_year = max([y for y in years if 2015 <= y <= 2024] or years)
 
 st.title("Mapping Global Education Inequity (SDG 4)")
 
-colA, colB = st.columns([2, 1], gap="large")
-with colB:
+col_a, col_b = st.columns([2, 1], gap="large")
+with col_b:
     year = st.selectbox("Select year", options=years, index=years.index(default_year))
     st.markdown(
         """
-        **About the index**  
-        - 0 to 1 (higher = **better** equity)  
-        - Combines: learning, early childhood, participation, gender parity, infrastructure, teachers  
-        - Requires ≥2 indicators per country-year  
+        **About the index**
+        - 0 to 1 (higher = **better** equity)
+        - Combines: learning, early childhood, participation, gender parity, infrastructure, teachers
+        - Requires ≥2 indicators per country-year
         """
     )
 
@@ -53,7 +54,7 @@ fig.update_geos(
 )
 fig.update_layout(margin=dict(l=0, r=0, t=60, b=0))
 
-with colA:
+with col_a:
     st.plotly_chart(fig, use_container_width=True)
 
 # Top / bottom tables
