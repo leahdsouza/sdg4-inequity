@@ -1,0 +1,7 @@
+indicator_id,name,source,code,higher_is_better,unit,bucket
+SE.PRM.CMPT.ZS,Primary school completion rate,WorldBank,SE.PRM.CMPT.ZS,TRUE,percent,Participation
+SDG_4.1.1_read,Minimum proficiency in reading (end of primary),UNESCO,4.1.1,TRUE,percent,Learning
+SDG_4.2.2,Participation in organized learning (1 year before primary),UNESCO,4.2.2,TRUE,percent,EarlyChildhood
+SDG_4.5.1_GPI_SEC,Gender parity index in secondary enrollment,UNESCO,4.5.1_GPI_SEC,FALSE,ratio,Equity
+SDG_4.a.1_elec,% of schools with electricity,UNESCO,4.a.1_electricity,TRUE,percent,Infrastructure
+SDG_4.c.1_prim,% of trained teachers (primary),UNESCO,4.c.1_primary,TRUE,percent,Teachers

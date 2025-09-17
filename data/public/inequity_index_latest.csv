@@ -1,0 +1,199 @@
+ISO3,Country,Year,InequityIndex
+GNQ,Equatorial Guinea,2015,0.35
+SSD,South Sudan,2015,0.158
+YEM,Yemen,2016,0.321
+PNG,Papua New Guinea,2016,0.573
+VEN,Venezuela (Bolivarian Republic of),2016,0.94
+BMU,Bermuda,2016,0.967
+TJK,Tajikistan,2017,0.563
+UGA,Uganda,2017,0.497
+CAF,Central African Republic,2017,0.171
+ATG,Antigua and Barbuda,2018,0.713
+AFG,Afghanistan,2019,0.397
+SDN,Sudan,2019,0.483
+STP,Sao Tome and Principe,2019,0.493
+MRT,Mauritania,2019,0.586
+MSR,Montserrat,2019,0.706
+MMR,Myanmar,2019,0.523
+MWI,Malawi,2019,0.517
+BDI,Burundi,2019,0.41
+COG,Congo,2019,0.432
+GAB,Gabon,2021,0.625
+GMB,Gambia,2021,0.622
+GIN,Guinea,2021,0.444
+GHA,Ghana,2021,0.707
+VCT,Saint Vincent and the Grenadines,2021,0.682
+IRN,Iran (Islamic Republic of),2021,0.706
+KWT,Kuwait,2021,0.815
+COM,Comoros,2021,0.525
+LIE,Liechtenstein,2021,0.773
+CPV,Cabo Verde,2021,0.823
+SUR,Suriname,2021,0.738
+URY,Uruguay,2022,0.828
+VGB,British Virgin Islands,2022,0.741
+SRB,Serbia,2022,0.733
+ZAF,South Africa,2022,0.678
+TUR,Türkiye,2022,0.881
+SGP,Singapore,2022,0.91
+GRC,Greece,2022,0.762
+HRV,Croatia,2022,0.813
+GBR,United Kingdom of Great Britain and Northern Ireland,2022,0.849
+FRA,France,2022,0.911
+EST,Estonia,2022,0.839
+ERI,Eritrea,2022,0.458
+LBR,Liberia,2022,0.509
+KOR,Republic of Korea,2022,0.943
+JPN,Japan,2022,0.902
+ISR,Israel,2022,0.785
+ISL,Iceland,2022,0.766
+BEN,Benin,2022,0.496
+BEL,Belgium,2022,0.911
+ARG,Argentina,2022,0.735
+AGO,Angola,2022,0.518
+AUT,Austria,2022,0.848
+BRA,Brazil,2022,0.711
+CZE,Czechia,2022,0.855
+CYP,Cyprus,2022,0.682
+CRI,Costa Rica,2022,0.694
+COL,Colombia,2022,0.743
+CHE,Switzerland,2022,0.819
+CAN,Canada,2022,0.888
+BWA,Botswana,2022,0.847
+BTN,Bhutan,2022,0.825
+DNK,Denmark,2022,0.836
+LTU,Lithuania,2022,0.851
+IRL,Ireland,2022,0.834
+MEX,Mexico,2022,0.714
+MHL,Marshall Islands,2022,0.782
+MKD,North Macedonia,2022,0.524
+PRT,Portugal,2022,0.825
+MLT,Malta,2022,0.76
+MOZ,Mozambique,2022,0.728
+NAM,Namibia,2022,0.811
+PAK,Pakistan,2022,0.41
+LUX,Luxembourg,2022,0.742
+NLD,Netherlands (Kingdom of the),2022,0.891
+SAU,Saudi Arabia,2022,0.709
+MDA,Republic of Moldova,2022,0.751
+BGR,Bulgaria,2023,0.842
+ARE,United Arab Emirates,2023,0.84
+COD,Democratic Republic of the Congo,2023,0.459
+SLE,Sierra Leone,2023,0.503
+ARM,Armenia,2023,0.691
+CIV,Côte d'Ivoire,2023,0.487
+UZB,Uzbekistan,2023,0.738
+CMR,Cameroon,2023,0.525
+ZMB,Zambia,2023,0.416
+USA,United States of America,2023,0.84
+OMN,Oman,2023,0.709
+NZL,New Zealand,2023,0.705
+RWA,Rwanda,2023,0.652
+AND,Andorra,2023,0.843
+CUB,Cuba,2023,0.879
+CYM,Cayman Islands,2023,0.88
+ALB,Albania,2023,0.807
+NRU,Nauru,2023,0.724
+SEN,Senegal,2023,0.445
+NPL,Nepal,2023,0.75
+COK,Cook Islands,2023,0.992
+PAN,Panama,2023,0.643
+PER,Peru,2023,0.581
+RUS,Russian Federation,2023,0.857
+SLV,El Salvador,2023,0.76
+VUT,Vanuatu,2023,0.71
+PRY,Paraguay,2023,0.67
+BHR,Bahrain,2023,0.738
+BHS,Bahamas,2023,0.649
+BFA,Burkina Faso,2023,0.385
+PSE,State of Palestine,2023,0.693
+VNM,Viet Nam,2023,0.884
+BIH,Bosnia and Herzegovina,2023,0.433
+WSM,Samoa,2023,0.672
+BLR,Belarus,2023,0.884
+SMR,San Marino,2023,0.697
+DEU,Germany,2023,0.85
+PRI,Puerto Rico,2023,0.647
+BOL,Bolivia (Plurinational State of),2023,0.887
+QAT,Qatar,2023,0.809
+POL,Poland,2023,0.915
+AZE,Azerbaijan,2023,0.818
+BRB,Barbados,2023,0.721
+PLW,Palau,2023,0.823
+BRN,Brunei Darussalam,2023,0.738
+PHL,Philippines,2023,0.626
+ROU,Romania,2023,0.794
+AUS,Australia,2023,0.78
+BGD,Bangladesh,2023,0.786
+CHL,Chile,2023,0.576
+BLZ,Belize,2023,0.624
+EGY,Egypt,2023,0.616
+DMA,Dominica,2023,0.68
+TLS,Timor-Leste,2023,0.791
+SLB,Solomon Islands,2023,0.472
+ITA,Italy,2023,0.8
+MDV,Maldives,2023,0.784
+TKM,Turkmenistan,2023,0.997
+JAM,Jamaica,2023,0.843
+JOR,Jordan,2023,0.721
+TKL,Tokelau,2023,0.846
+SWZ,Eswatini,2023,0.778
+MDG,Madagascar,2023,0.47
+KAZ,Kazakhstan,2023,0.749
+KEN,Kenya,2023,0.584
+KGZ,Kyrgyzstan,2023,0.979
+THA,Thailand,2023,0.906
+KHM,Cambodia,2023,0.781
+MCO,Monaco,2023,0.872
+KIR,Kiribati,2023,0.773
+TCA,Turks and Caicos Islands,2023,0.955
+LSO,Lesotho,2023,0.544
+LVA,Latvia,2023,0.878
+LKA,Sri Lanka,2023,0.738
+SYR,Syrian Arab Republic,2023,0.51
+LCA,Saint Lucia,2023,0.864
+IND,India,2023,0.81
+MAC,"China, Macao Special Administrative Region",2023,0.933
+LBN,Lebanon,2023,0.661
+SYC,Seychelles,2023,0.844
+LAO,Lao People's Democratic Republic,2023,0.648
+MAR,Morocco,2023,0.743
+TGO,Togo,2023,0.748
+KNA,Saint Kitts and Nevis,2023,0.733
+TCD,Chad,2023,0.369
+SWE,Sweden,2023,0.881
+TON,Tonga,2023,0.815
+IDN,Indonesia,2023,0.707
+FJI,Fiji,2023,0.891
+NER,Niger,2023,0.383
+FIN,Finland,2023,0.862
+ETH,Ethiopia,2023,0.313
+TZA,United Republic of Tanzania,2023,0.631
+SVK,Slovakia,2023,0.884
+TUV,Tuvalu,2023,0.765
+ESP,Spain,2023,0.868
+ECU,Ecuador,2023,0.785
+NIU,Niue,2023,0.622
+DZA,Algeria,2023,0.814
+DOM,Dominican Republic,2023,0.79
+UKR,Ukraine,2023,0.957
+NOR,Norway,2023,0.801
+NIC,Nicaragua,2023,0.628
+DJI,Djibouti,2023,0.81
+FSM,Micronesia (Federated States of),2023,0.526
+GEO,Georgia,2023,0.77
+MLI,Mali,2023,0.366
+HUN,Hungary,2023,0.809
+TTO,Trinidad and Tobago,2023,0.594
+HND,Honduras,2023,0.548
+MNE,Montenegro,2023,0.683
+HKG,"China, Hong Kong Special Administrative Region",2023,0.957
+MYS,Malaysia,2023,0.804
+GUY,Guyana,2023,0.732
+GTM,Guatemala,2023,0.697
+MNG,Mongolia,2023,0.797
+GRD,Grenada,2023,0.733
+SVN,Slovenia,2023,0.832
+GIB,Gibraltar,2023,0.725
+MUS,Mauritius,2023,0.81
+TUN,Tunisia,2023,0.994
+ZWE,Zimbabwe,2023,0.782
