@@ -1,6 +1,6 @@
 # SDG4 Education Inequity Analysis
 
-🌐 **[View Live Interactive Dashboard](https://sdg4-inequity.streamlit.app/)** 🌐
+**[View Live Interactive Dashboard](https://sdg4-inequity.streamlit.app/)** 
 
 ## Problem Statement
 
