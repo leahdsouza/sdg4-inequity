@@ -1,5 +1,7 @@
 # SDG4 Education Inequity Analysis
 
+🌐 **[View Live Interactive Dashboard](https://sdg4-inequity.streamlit.app/)** 🌐
+
 ## Problem Statement
 
 Despite global commitments to Sustainable Development Goal 4 (SDG4) - "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all" - **massive educational inequities persist worldwide**. These inequities manifest across multiple dimensions:
