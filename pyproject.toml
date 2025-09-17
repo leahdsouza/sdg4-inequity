@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sdg4-inequity"
+version = "0.1.0"
+description = "SDG4 Education Inequity Analysis - Harmonizing UNESCO/UN datasets across 150+ countries"
+authors = [
+    {name = "Leah D'Souza", email = "leah@example.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "Topic :: Education",
+]
+
+[project.urls]
+Homepage = "https://github.com/leahdsouza/sdg4-inequity"
+Repository = "https://github.com/leahdsouza/sdg4-inequity"
+Issues = "https://github.com/leahdsouza/sdg4-inequity/issues"
+
+[tool.black]
+line-length = 88
+target-version = ['py312']
+
+[tool.ruff]
+target-version = "py312"
+line-length = 88
+select = ["E", "F", "W", "C90", "I", "N", "UP", "B", "A", "S", "T20", "E7", "F6"]
+ignore = ["E501", "B008", "B006"]
+
+[tool.ruff.isort]
+known-first-party = ["pipelines", "app"]
